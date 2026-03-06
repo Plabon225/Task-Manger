@@ -1,0 +1,25 @@
+.inputs:hover{
+    border: 1px solid #CB0C9F;
+}
+
+.buttons {
+    color: #ffffff;
+    background-color: #CB0C9F;
+}
+
+.buttons:hover {
+    background-color: #f34ac1; /* dark pink on hover */
+       /* slight grow on hover */
+
+}
+.navs {
+    background-color: #ffffff;
+}
+.conTent {
+    width: 100%;
+    min-height: 100vh; /* সম্পূর্ণ viewport height */
+    background-color: #c8d6e5; /* bg-danger এর color */
+    display: flex;
+    justify-content: center; /* horizontal center */
+
+}
